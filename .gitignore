@@ -4,6 +4,8 @@ config/development.json
 config/production.json
 config/test.json
 
+public/js/site.min.js
+
 # Generated npm files
 node_modules
 npm-debug.log
